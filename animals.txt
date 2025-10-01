@@ -1,2 +1,3 @@
 dogs are animals
 cats are animals
+mouses are animals
