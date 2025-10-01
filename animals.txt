@@ -2,3 +2,4 @@ dogs are animals
 cats are animals
 mouses are animals
 lions are animals
+cows are animals
